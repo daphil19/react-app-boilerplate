@@ -1,5 +1,7 @@
 # react-app-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/enriquecaballero/react-app-boilerplate.svg)](https://greenkeeper.io/)
+
 ## Demo
 
 https://enriquecaballero.github.io/react-app-boilerplate/
